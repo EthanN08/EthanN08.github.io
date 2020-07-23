@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## When the Turkey eats the cheese, I say no
 
 You can use the [editor on GitHub](https://github.com/EthanN08/EthanN08.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
